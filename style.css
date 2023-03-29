@@ -1,3 +1,9 @@
 body {
     background-color: lightgrey;
 }
+
+div {
+    height: 400px;
+    width: 400px;
+    background-color: blue;
+}
